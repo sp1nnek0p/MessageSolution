@@ -32,5 +32,5 @@ Application Procedure:
 
     Download this sqlite3 database and decode the message it contains. It will tell you where to send your CV, submissions to any other address will be ignored.
     We will select the top candidates from the CV submission and host a weekend workshop where we will work together on a mini project.
-    We will offer the successful candidate a 3 month probationary contract at R25,000 per month with a flexible starting date.
+    We will offer the successful candidate a 3 month probationary contract at R35,000 per month with a flexible starting date.
     After the 3 months we will offer you a permanent position if we are satisfied with your performace.
